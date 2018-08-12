@@ -1,0 +1,54 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:#00bcd4;
+    color:white;
+    font-family:sans-serif;
+  }
+  header{
+    margin:50px 25px;
+    position:relative;
+  }
+  button{
+    background-color:transparent;
+    boder:1px solid white;
+    color:white;
+    font-size:20px;
+    padding:8px;
+    border-radius:8px;
+    position:absolute;
+    right:0;
+  }
+  .main{
+    margin:auto;
+    width:40%;
+    
+  }
+  .sign-up{
+    text-align:center;
+  }
+  .form-row{
+    margin-bottom:5px;
+  }
+  .form-input{
+    border:none;
+    height:35px;
+    width:48.5%;
+    padding-left:10px;
+    border-radius:8px;
+  }
+  select{
+    width:98% !important;
+  }
+  .form-submit{
+    width:95%;
+    background-color:blue;
+    color:white;
+    width:98% ;
+  }
+  .form-footer{
+     text-align:center;
+     padding-left:15px;
+    padding-right:15px;
+  }
+  
